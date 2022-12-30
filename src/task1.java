@@ -20,5 +20,4 @@ public class task1 {
             System.out.println(i);
         }
     }
-
 }
